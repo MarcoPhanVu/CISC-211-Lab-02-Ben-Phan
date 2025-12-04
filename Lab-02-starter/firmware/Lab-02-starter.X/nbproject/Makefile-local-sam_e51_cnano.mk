@@ -35,3 +35,4 @@ MP_AS_DIR="C:\Applications\CISC211\MPLAB XC32\bin"
 MP_LD_DIR="C:\Applications\CISC211\MPLAB XC32\bin"
 MP_AR_DIR="C:\Applications\CISC211\MPLAB XC32\bin"
 DFP_DIR=C:/Users/Mesa/.mchp_packs/Microchip/SAME51_DFP/3.8.253
+CMSIS_DIR=C:/Users/Mesa/.mchp_packs/ARM/CMSIS/5.8.0
